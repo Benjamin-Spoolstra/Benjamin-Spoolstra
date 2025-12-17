@@ -1,14 +1,18 @@
 # Hi I'm Benjamin Spoolstra!
 
-[Brief Introduction - Replace this text with a short bio about yourself, your background, and your interests.]
+Welcome to my cybersecurity portfolio!
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an aspiring Security Operations Center (SOC) analyst and cybersecurity professional with a passion for network, application, and cloud security. 
+
+I'm studying for a B.S. of Cybersecurity at GCU with honors and I've achieved my CompTIA Security+ and AWS Certified Cloud Practitioner certifications.
+
+I've worked in the IT industry as a help desk technician for a few months as of writing this and I'm learning the foundational IT skills needed to secure organizational environments through various projects, CTFs, and labs.
 
 ## Objective
 
-[Provide Objective - Replace this text with your career goals, such as the specific role you are looking for.]
+I'm working towards developing a well-rounded skillset of both defense and penetration testing skills. These skills will give me the ability to understand attacks, trace their root causes, understand their motives, and work to prevent or mitigate these attacks in the future. 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I want to use this skills to work as a Tier 1 or Junior SOC analyst after I graduate in 2027.
 
 ## Skills
 
@@ -40,10 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-[Provide certifications that you have obtained or are working towards.]
-
-* [Certification Name] - [Issuing Authority]
-* [Certification Name] - [Issuing Authority]
+* Security+ - CompTIA
+* AWS Certified Cloud Practioner - AWS
 
 ## Projects
 
