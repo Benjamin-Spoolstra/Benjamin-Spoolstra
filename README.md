@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]
+# Hi I'm Benjamin Spoolstra!
 
 [Brief Introduction - Replace this text with a short bio about yourself, your background, and your interests.]
 
