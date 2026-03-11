@@ -1,1 +1,145 @@
-This is a placeholder
+# [CTF Name] - [Challenge Name]
+
+> **Competition:** CTF Name (Year)  
+> **Category:** `Pwn` / `Web` / `Crypto` / `Forensics` / `Rev` / `Misc`  
+> **Difficulty:** Easy / Medium / Hard  
+> **Points:** 000  
+> **Solved:** Yes / No  
+
+---
+
+## Challenge Description
+
+> *Paste the original challenge description here.*
+
+**Given files/resources:**
+- `filename.ext` — brief note on what it is
+- `nc host.example.com 12345` — connection info if applicable
+
+---
+
+## Initial Recon
+
+*What do you see at first glance? What type of challenge is this? What are your first observations before diving in?*
+
+```bash
+# Example: initial enumeration commands
+file vuln
+checksec vuln
+strings vuln | grep -i flag
+```
+
+**Observations:**
+- [ ] Observation 1
+- [ ] Observation 2
+- [ ] Observation 3
+
+---
+
+## Analysis
+
+*Walk through your thought process. What are you looking for? What tools are you using and why?*
+
+### Step 1 — [What you're examining]
+
+*Explain your reasoning here. Why did you look at this? What were you hoping to find?*
+
+```bash
+# Commands / code used
+```
+
+**Finding:** *What did you discover?*
+
+---
+
+### Step 2 — [What you're examining]
+
+*Explain your reasoning here.*
+
+```bash
+# Commands / code used
+```
+
+**Finding:** *What did you discover?*
+
+---
+
+### Step 3 — [What you're examining]
+
+*Explain your reasoning here.*
+
+```python
+# Script / code snippet if applicable
+```
+
+**Finding:** *What did you discover?*
+
+---
+
+## Vulnerability / Key Insight
+
+*State clearly what the vulnerability or key insight is. What is the challenge actually testing?*
+
+> 💡 **The core issue:** Describe the bug, misconfiguration, or trick in plain terms.
+
+---
+
+## Exploit / Solution
+
+*Walk through how you turned the insight into a working solve.*
+
+### Step 1 — [Action taken]
+
+*Explain what you're doing and why.*
+
+```python
+# Final exploit script or solve code
+```
+
+### Step 2 — [Action taken]
+
+*Explain what you're doing and why.*
+
+```bash
+# Commands
+```
+
+### Full Exploit Script
+
+```python
+#!/usr/bin/env python3
+# Paste complete solve script here
+
+```
+
+**Running it:**
+
+```
+$ python3 solve.py
+[output here]
+```
+
+---
+
+## Flag
+
+```
+CTF{flag_here}
+```
+
+---
+
+## What I Learned
+
+*Reflect on what this challenge taught you. New tools, techniques, or concepts you picked up or reinforced.*
+
+- **Technique/concept 1** — brief explanation
+- **Technique/concept 2** — brief explanation
+- **Technique/concept 3** — brief explanation
+
+---
+
+## References
+
+- [Resource name](https://link.here) — why it was useful
+- [Tool name](https://link.here) — what it does
