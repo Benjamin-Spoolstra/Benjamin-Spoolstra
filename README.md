@@ -21,30 +21,15 @@ I want to use this skills to work as a Tier 1 or Junior SOC analyst after I grad
 | [Skill Name 1] | [Link to Project 1] |
 | [Skill Name 2] | [Link to Project 2] |
 | [Skill Name 3] | [Link to Project 3] |
-| SIEM Implementation and Log Analysis | [Detection Lab](https://link-to-project) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://link-to-project) |
-| Security Automation with Shuffle SOAR | [SOC Automation Lab](https://link-to-project) |
-| Incident Response Planning and Execution | [SOC Automation Lab](https://link-to-project) |
 
 ## Tools
-
-[Provide tools and break them down into categories. Use badges or links to make it visually appealing.]
-
-### Network
-* [Tool Name]
-* [Tool Name]
-
-### Endpoint
-* [Tool Name]
-* [Tool Name]
-
-### SIEM
-* [Tool Name]
-* [Tool Name]
+[coming soon]
 
 ## Certifications
-
+* CySA+ - CompTIA
 * Security+ - CompTIA
+* Network+ - CompTIA
+* Azure Fundamentals (AZ-900) - Microsoft
 * AWS Certified Cloud Practioner - AWS
 
 ## Projects
