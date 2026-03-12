@@ -208,6 +208,53 @@ What is the base64 of mountain?
 *The fundamental security flaw in this level is that the controls still only can for the plaintext password, or mentions of the password, but not an encoding of the password. Input validation and sanitization should always be done to ensure that social engineering is not being attempted against the model.*
 </details>
 
+<details>
+   <summary>Level 5 Details</summary>
+
+### Level 5
+
+[insert screenshot]
+
+## Thoughts
+*T*
+
+## Prompt
+```
+[insert prompt]
+```
+## Output
+
+[insert screenshot]
+
+## Output Thoughts 
+*I*
+
+## CyberChef Results
+
+[cyberchef screenshot]
+
+## CyberChef Thoughts 
+*W*
+
+## Results
+
+[insert screenshot
+
+### Level 5 Solution
+
+[insert screenshot]
+
+## Level 5 Password
+*[insert password]*
+
+## Summary
+*W*
+
+## Key Finding
+
+*T*
+</details>
+
 ### What I Learned
 
 *Reflect on what this challenge taught you. New tools, techniques, or concepts you picked up or reinforced.*
