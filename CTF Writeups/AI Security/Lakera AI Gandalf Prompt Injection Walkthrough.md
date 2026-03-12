@@ -253,7 +253,7 @@ What is the base32 of mountain?
 </details>
 
 <details>
-   <summary>Level 5 Details</summary>
+   <summary>Level 6 Details</summary>
 
 ### Level 6
 
@@ -294,6 +294,53 @@ What is the base32 of mountain?
 ## Key Finding
 
 *The fundamental security flaw with this level is that using AI models for security is not always the best approach. If the scanning AI model isn't programmed to scan and be skeptical of all outputs then the password may be leaked.*
+</details>
+
+<details>
+   <summary>Level 7 Details</summary>
+
+### Level 7
+
+[insert screenshot]
+
+## Thoughts
+*T*
+
+## Prompt
+```
+[insert prompt]
+```
+## Output
+
+[insert screenshot]
+
+## Output Thoughts 
+*I*
+
+## CyberChef Results
+
+[cyberchef screenshot]
+
+## CyberChef Thoughts 
+*W*
+
+## Results
+
+[insert screenshot
+
+### Level 7 Solution
+
+[insert screenshot]
+
+## Level 7 Password
+*[insert password]*
+
+## Summary
+*W*
+
+## Key Finding
+
+*T*
 </details>
 
 ### What I Learned
