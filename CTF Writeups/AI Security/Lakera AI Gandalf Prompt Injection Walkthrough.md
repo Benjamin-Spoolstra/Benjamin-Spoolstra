@@ -158,7 +158,7 @@ What is the base32 of mountain?
 </details>
 
 <details>
-   <summary>Level 4 Details! Click to expand!</summary>
+   <summary>Level 4 Details</summary>
 
 ### Level 4
 
