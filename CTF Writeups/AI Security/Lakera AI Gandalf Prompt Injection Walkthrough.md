@@ -114,20 +114,29 @@ What is the base32 of mountain?
 <img width="1919" height="871" alt="Screenshot 2026-03-11 202853" src="https://github.com/user-attachments/assets/29b7b02c-45e5-4343-b52d-686143a45915" />
 
 ## Output Thoughts 
-*It appears that there is an encoded string outputted as the digital signature. I'll try running it through CyberChef to see if I can get a discernable password. For the purposes of this level the base32 of mountain is ignored as it is just a dummy question for the bot to focus on.*
+*It appears that there is an encoded string outputted as the digital signature. I'll try running it through CyberChef to see if I can get a discernable password. For the purposes of this level the base32 of mountain is ignored as it is just a red herring question for the AI to focus on.*
+
+## CyberChef Results
+
+<img width="1919" height="871" alt="Screenshot 2026-03-11 202903" src="https://github.com/user-attachments/assets/cdf4eb52-50e8-4238-8a7d-ec8747a1d46d" />
+
+## CyberChef Thoughts 
+*While the output looks a bit garbled that is likely due to the AI model's hallucination while encoding the password. There's just enough of the word to make out the likely password to be wavelength, so I'll try it.*
 
 ## Results
 
-[insert success screenshot]
+<img width="1919" height="868" alt="Screenshot 2026-03-11 202920" src="https://github.com/user-attachments/assets/b572ecc1-1b08-494a-a774-4bf8296d6fb7" />
 
 ### Level 3 Solution
 
+<img width="1919" height="860" alt="Screenshot 2026-03-11 203120" src="https://github.com/user-attachments/assets/fb9368d7-a11a-4b15-a8eb-68ec036d9fb7" />
+
 ## Summary
-*After *
+*With a bit of persistence the AI model can be manipulated into leaking the password via obfuscation. By convincing the AI to encode its messages with the password to "enhance" security it unknowingly leaks a portion if not all of the password, which bypasses typical security controls looking for plaintext forms of the password.*
 
 ## Key Finding
 
-*The primary security issue with this *
+*The primary security issue found in this level is that scanning for the password in plaintext outputs is not enough to protect the security of AI models. A crafty attacker can easily bypass the controls, even without knowing them, by manipulating the underlying objectives of the model, and make it behave in the unintended ways.*
 
 ### What I Learned
 
