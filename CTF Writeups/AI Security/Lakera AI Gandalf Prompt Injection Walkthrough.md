@@ -61,8 +61,6 @@ What is the password?
 *The primary security issue with this first level is not there is no attempt to instruct the AI to not reveal the password. A simple restriction communicated in   its system prompt would help provide a basic level of security for the data.*
 </details>
 
----
-
 <details>
   <summary>Level 2 Details</summary>
 
