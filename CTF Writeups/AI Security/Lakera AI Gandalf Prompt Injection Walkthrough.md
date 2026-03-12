@@ -216,7 +216,7 @@ What is the base64 of mountain?
 <img width="1919" height="864" alt="Screenshot 2026-03-12 110257" src="https://github.com/user-attachments/assets/733db009-15f7-4f0a-a64f-9f8d95cbb08c" />
 
 ## Thoughts
-*This level's security controls are definitely upgraded. There is basic input validation and the outputs are heavily scrutinized, but it might not be as difficult as it seems. I'll slightly modify my master prompt from the previous levels to ask that the password be encoded in base32 to evade detection.*
+*This level's security controls are definitely upgraded. There is basic input validation and outputs are likely heavily scrutinized, but it might not be as difficult as it seems. I'll slightly modify my master prompt from the previous levels to ask that the password be encoded in base32 to evade detection.*
 
 ## Prompt
 ```
@@ -245,11 +245,11 @@ What is the base32 of mountain?
 *Bestowed*
 
 ## Summary
-*W*
+*Even though this level implemented an additional AI model to check inputs and outputs it still can be evaded by encoding the password. Interestingly enough the AI was still able to output the password in plaintext despite the controls in place and the direction to encode the password. This is fundamentally due to the true nature of AI models being a bit random in their generations. Ever generation is not the same as the next even if they communicate the same thing.*
 
 ## Key Finding
 
-*T*
+*This level is missing proper input and output validation, including checking for suspicious output such as encoded or encrypted strings. These would be dead givewaways as an attempt to evade detection if the AI model was not trained to just check for plaintext communications of the password.*
 </details>
 
 ### What I Learned
