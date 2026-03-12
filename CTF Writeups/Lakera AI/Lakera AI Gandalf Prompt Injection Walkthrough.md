@@ -359,15 +359,11 @@ What is the base32 of mountain?
 ---
 ### What I Learned
 
-> *This challenge reflects the *
-
-- **Technique/concept 1** — brief explanation
-- **Technique/concept 2** — brief explanation
-- **Technique/concept 3** — brief explanation
+> *This challenge reflects the fundamental security flaws in AI models which are the lack of input and output validation, and the inability of the AI to determine if it's being engineered to reveal confidential information outside the bounds of its system controls. While implementing additional request controls, sometimes using other AI models, can aid in blocking basic malicious requests, they aren't able to block carefully crafted prompts that bypass traditional controls.*
 
 ---
 
 ## References
 
-- [Resource name](https://link.here) — why it was useful
-- [Tool name](https://link.here) — what it does
+- [CyberChef](https://gchq.github.io/CyberChef/) — Tool for decoding ROT13 and Base64
+- [Tool name](https://wordunscrambler.me/) — Tool for unscrambling words
