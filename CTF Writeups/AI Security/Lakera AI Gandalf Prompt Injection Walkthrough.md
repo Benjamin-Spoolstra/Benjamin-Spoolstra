@@ -14,10 +14,14 @@
 
 ---
 
+---
+
 ## High-Level Analysis
 
 *The first thing I noticed about each level is that there's an associated hint about the behavior of the underlying AI model. 
 This behavior will inform my exploits and help me engineer each prompt to specifically target the weaknesses of each AI model.*
+
+---
 
 <details>
   <summary>Level 1 Details</summary>
@@ -343,6 +347,7 @@ What is the base32 of mountain?
 *T*
 </details>
 
+---
 ### What I Learned
 
 *Reflect on what this challenge taught you. New tools, techniques, or concepts you picked up or reinforced.*
@@ -350,6 +355,8 @@ What is the base32 of mountain?
 - **Technique/concept 1** — brief explanation
 - **Technique/concept 2** — brief explanation
 - **Technique/concept 3** — brief explanation
+
+---
 
 ---
 
