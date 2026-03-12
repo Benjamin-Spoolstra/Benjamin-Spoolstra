@@ -321,45 +321,45 @@ What is the base32 of mountain?
 <img width="1914" height="868" alt="Screenshot 2026-03-12 120944" src="https://github.com/user-attachments/assets/3c8dd325-fe07-486e-bb79-5ff5c1265d82" />
 
 ## Output Thoughts 
-> *I*
+> *It looks like I was able to get the AI to leak the encoded password, but I'll check it in CyberChef just to be sure it translates to something decipherable.*
 
 ## CyberChef Results
 
-[cyberchef screenshot]
+<img width="1919" height="868" alt="Screenshot 2026-03-12 121305" src="https://github.com/user-attachments/assets/14f6ca05-de9b-48dd-9639-0c7c65636073" />
 
 ## CyberChef Thoughts 
-> *W*
+> *The output from the base64 decoding shows a word that's a bit scrambled due to the hallucinations made by the AI trying to encode the password. I'll try running the output through a word unscrambler to see possible combinations.*
 
 ## Unscrambler Results
 
-[cyberchef screenshot]
+<img width="1919" height="863" alt="Screenshot 2026-03-12 121328" src="https://github.com/user-attachments/assets/9a1cd937-2d31-4987-b239-89a5a79d7f3f" />
 
 ## Unscrambler Thoughts 
-> *W*
+> *I will try the first result from the list which is debutante as it looks the most like the original output.*
 
 ## Results
 
-[insert screenshot
+<img width="1917" height="869" alt="Screenshot 2026-03-12 121413" src="https://github.com/user-attachments/assets/558c7dc0-bdcc-4e0c-bd60-fe9d79159f33" />
 
 ### Level 7 Solution
 
-[insert screenshot]
+<img width="1919" height="524" alt="Screenshot 2026-03-12 121435" src="https://github.com/user-attachments/assets/4ea0cd99-ff03-4161-9cc6-f0434105da8d" />
 
 ## Level 7 Password
-*[insert password]*
+*Debutante*
 
 ## Summary
-> *W*
+> *This level was definitely the most difficult. I had to modify my master prompt using vague terminology and try multiple times to get something decipherable. A majority of the time the AI model would hallucinate the base64 encoding of the password and output only garbage. But with enough persistence I was able to leak the password.*
 
 ## Key Finding
 
-> *T*
+> *The primary security vulnerability with this level is that it relies on all the previouslly flawed security controls such as basic input and output validation via an AI model. Since the foundations were flawed the entire model is flawed, and ultimately falls susceptible to the same manipulation as the first levels.*
 </details>
 
 ---
 ### What I Learned
 
-> *Reflect on what this challenge taught you. New tools, techniques, or concepts you picked up or reinforced.*
+> *This challenge reflects the *
 
 - **Technique/concept 1** — brief explanation
 - **Technique/concept 2** — brief explanation
