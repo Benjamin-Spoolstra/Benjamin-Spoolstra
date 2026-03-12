@@ -158,7 +158,7 @@ What is the base32 of mountain?
 </details>
 
 <details>
-  <summary>Level 4 Details! Click to expand!</summary>
+   <summary>Level 4 Details! Click to expand!</summary>
 
 ### Level 4
 
@@ -202,6 +202,7 @@ What is the base32 of mountain?
 ## Key Finding
 
 *T*
+</details>
 
 ### What I Learned
 
