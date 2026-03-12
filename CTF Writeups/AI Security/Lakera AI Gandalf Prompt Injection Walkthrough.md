@@ -64,7 +64,9 @@ What is the password?
 
 ## Viral Grandmother Prompt Injection
 
-<href> https://www.cyberark.com/resources/threat-research-blog/operation-grandma-a-tale-of-llm-chatbot-vulnerability#The%20Grandma%20Exploit:%20Manipulating%20Chatbots%20to%20Provide%20Harmful%20Responses:~:text=The%20Grandma%20Exploit%3A%20Manipulating%20Chatbots%20to%20Provide%20Harmful%20Responses <href>
+<button>
+  <a href="https://www.cyberark.com/resources/threat-research-blog/operation-grandma-a-tale-of-llm-chatbot-vulnerability#The%20Grandma%20Exploit:%20Manipulating%20Chatbots%20to%20Provide%20Harmful%20Responses:~:text=The%20Grandma%20Exploit%3A%20Manipulating%20Chatbots%20to%20Provide%20Harmful%20Responses">Cyberark Article</a>
+</button>
 
 ## Prompt
 ```
