@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio!
 
 I'm an aspiring Security Operations Center (SOC) analyst and cybersecurity professional with a passion for network, application, and cloud security. 
 
-I'm studying for a B.S. of Cybersecurity at GCU with honors and I've achieved my CompTIA Security+ and AWS Certified Cloud Practitioner certifications.
+I'm studying for a B.S. of Cybersecurity at GCU with honors and I've achieved multiple certifications such CompTIA Security+ and CySA+.
 
 I've worked in the IT industry as a help desk technician for a few months as of writing this and I'm learning the foundational IT skills needed to secure organizational environments through various projects, CTFs, and labs.
 
@@ -12,7 +12,7 @@ I've worked in the IT industry as a help desk technician for a few months as of 
 
 I'm working towards developing a well-rounded skillset of both defense and penetration testing skills. These skills will give me the ability to understand attacks, trace their root causes, understand their motives, and work to prevent or mitigate these attacks in the future. 
 
-I want to use this skills to work as a Tier 1 or Junior SOC analyst after I graduate in 2027.
+I want to use this skills to work as a SOC Analyst or Penetration Tester after I graduate in 2027.
 
 ## Skills
 
@@ -29,6 +29,7 @@ I want to use this skills to work as a Tier 1 or Junior SOC analyst after I grad
 * CySA+ - CompTIA
 * Security+ - CompTIA
 * Network+ - CompTIA
+* A+ - CompTIA
 * Azure Fundamentals (AZ-900) - Microsoft
 * AWS Certified Cloud Practioner - AWS
 
