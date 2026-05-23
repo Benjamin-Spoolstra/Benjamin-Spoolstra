@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio!
 
-I'm an aspiring Security Operations Center (SOC) analyst and cybersecurity professional with a passion for network, application, and cloud security. 
+I'm an aspiring penetration tester and cybersecurity professional with a passion for network, application, and cloud security. 
 
 I'm studying for a B.S. of Cybersecurity at GCU with honors and I've achieved multiple certifications such CompTIA Security+ and CySA+.
 
