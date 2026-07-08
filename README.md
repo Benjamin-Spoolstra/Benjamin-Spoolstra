@@ -18,9 +18,9 @@ I want to use this skills to work as a SOC Analyst or Penetration Tester after I
 
 | Skill | Associated Project |
 |-------|-------------------|
-| External Pentesting | https://github.com/Benjamin-Spoolstra/Projects/blob/main/Bug%20Bounty%20VPS.md |
-| Security Operations | https://github.com/Benjamin-Spoolstra/Projects/blob/main/SOC%20Lab.md |
-| Risk Management | https://github.com/Benjamin-Spoolstra/Projects/blob/main/Risk%20Management%20Lab.md |
+| External Pentesting | Bug Bounty VPS |
+| Security Operations | SOC Lab |
+| Risk Management | Risk Management Lab |
 
 ## Tools
 [coming soon]
@@ -35,6 +35,6 @@ I want to use this skills to work as a SOC Analyst or Penetration Tester after I
 
 ## Projects
 
-* [**Project Name 1**](https://link-to-project): Brief description of what this project is.
-* [**Detection Lab**](https://link-to-project): Description of the lab.
-* [**SOC Automation Project**](https://link-to-project): Description of the project.
+* [**Bug Bounty VPS**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/Bug%20Bounty%20VPS.md): Brief description of what this project is.
+* [**SOC Lab**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/SOC%20Lab.md): Description of the lab.
+* [**Risk Management Lab**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/Risk%20Management%20Lab.md): Description of the project.
