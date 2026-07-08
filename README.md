@@ -82,3 +82,8 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 # Education
 * B.S. in Cybersecurity - Grand Canyon University
 > My expected graduation is April 2027.
+
+# Upcoming Certifications
+* PenTest+ - CompTIA
+
+Feel free to check out some of my other repositories for documentation on projects, CTF writeups, lab writeups, and some help certification resources.
