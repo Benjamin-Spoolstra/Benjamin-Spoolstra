@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio!
 
 ## Who I Am
 
-I'm an aspiring Offensive Security professional with 1 years worth of technical experience specializing in web application and internal network penetration testing across Active Directory and cloud environments. I'm working toward expanding into red teaming and adversary emulation so I deepen my expertise in Offensive Security.
+I'm an aspiring Offensive Security professional with 1 year of technical experience specializing in web application and internal network penetration testing across Active Directory and cloud environments. I'm working toward expanding into red teaming and adversary emulation so I deepen my expertise in Offensive Security.
 
 ## Core Function
 
