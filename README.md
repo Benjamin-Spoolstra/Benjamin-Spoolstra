@@ -10,7 +10,7 @@ I've worked in the IT industry as a help desk technician for a few months as of 
 
 ## Objective
 
-I'm working towards developing a well-rounded skillset of both defense and penetration testing skills. These skills will give me the ability to understand attacks, trace their root causes, understand their motives, and work to prevent or mitigate these attacks in the future. 
+I'm working towards developing a well-rounded skillset of both defensive and offensive security. These skills will give me the ability to understand attacks, trace their root causes, understand their motives, and work to prevent or mitigate these attacks in the future. 
 
 I want to use this skills to work as a SOC Analyst or Penetration Tester after I graduate in 2027.
 
@@ -18,9 +18,9 @@ I want to use this skills to work as a SOC Analyst or Penetration Tester after I
 
 | Skill | Associated Project |
 |-------|-------------------|
-| [Skill Name 1] | [Link to Project 1] |
-| [Skill Name 2] | [Link to Project 2] |
-| [Skill Name 3] | [Link to Project 3] |
+| External Pentesting | https://github.com/Benjamin-Spoolstra/Projects/blob/main/Bug%20Bounty%20VPS.md |
+| Security Operations | https://github.com/Benjamin-Spoolstra/Projects/blob/main/SOC%20Lab.md |
+| Risk Management | https://github.com/Benjamin-Spoolstra/Projects/blob/main/Risk%20Management%20Lab.md |
 
 ## Tools
 [coming soon]
