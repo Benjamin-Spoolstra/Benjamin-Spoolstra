@@ -71,7 +71,7 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 - Digital forensics
 - Long-term interest in technical mentorship as skills and experience grow
 
-## Certifications
+# Certifications
 * CySA+ - CompTIA
 * Security+ - CompTIA
 * Network+ - CompTIA
@@ -79,6 +79,6 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 * Azure Fundamentals (AZ-900) - Microsoft
 * AWS Certified Cloud Practioner - AWS
 
-## Education
+# Education
 * B.S. in Cybersecurity - Grand Canyon University
 > My expected graduation is April 2027.
