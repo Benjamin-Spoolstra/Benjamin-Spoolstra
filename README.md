@@ -86,4 +86,4 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 # Upcoming Certifications
 * PenTest+ - CompTIA
 
-Feel free to check out some of my other repositories for documentation on projects, CTF writeups, lab writeups, and some help certification resources.
+Feel free to check out some of my other repositories for documentation on projects, CTF writeups, lab writeups, and some helpful certification resources.
