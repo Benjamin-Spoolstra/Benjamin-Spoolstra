@@ -79,8 +79,6 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 * Azure Fundamentals (AZ-900) - Microsoft
 * AWS Certified Cloud Practioner - AWS
 
-## Projects
-
-* [**Bug Bounty VPS**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/Bug%20Bounty%20VPS.md): A bug bounty and external penetration testing VPS setup for streamlining engagement reconnaissance, enumeration, and automated vulnerability analysis 
-* [**SOC Lab**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/SOC%20Lab.md): A small Linux network setup to monitor attack traffic with Wazuh
-* [**Risk Management Lab**](https://github.com/Benjamin-Spoolstra/Projects/blob/main/Risk%20Management%20Lab.md): A small Active Directory network setup to practice mapping attack surfaces and hardening environments based on NIST security control regulations
+## Education
+* B.S. in Cybersecurity - Grand Canyon University
+> My expected graduation is April 2027.
