@@ -8,7 +8,7 @@ I'm an aspiring Offensive Security professional specializing in web application 
 
 # Core Function
 
-I work to identify the security gaps in your infrastructure before threat actors can exploit them, and translate technical findings into clear, actionable remediation steps that strengthen your security posture and reduce the risk of financial loss, reputational damage, and compliance penalties. 
+I work to identify the security gaps in your infrastructure before threat actors can exploit them, and translate technical findings into clear, actionable remediation steps that strengthen your security posture. I want to help your organization reduce the risk of financial loss, reputational damage, and compliance penalties as a result of cyber compromise.
 
 # My Background
 
