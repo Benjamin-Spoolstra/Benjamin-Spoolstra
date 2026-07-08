@@ -2,15 +2,15 @@
 
 Welcome to my cybersecurity portfolio!
 
-# Who I Am
+## Who I Am
 
 I'm an aspiring Offensive Security professional with 1 years worth of technical experience specializing in web application and internal network penetration testing across Active Directory and cloud environments. I'm working toward expanding into red teaming and adversary emulation so I deepen my expertise in Offensive Security.
 
-# Core Function
+## Core Function
 
 I work to identify the security gaps in your infrastructure before threat actors can exploit them, and translate technical findings into clear, actionable remediation steps that strengthen your security posture. I want to help your organization reduce the risk of financial loss, reputational damage, and compliance penalties as a result of cyber compromise.
 
-# My Background
+## My Background
 
 My background spans technical support in a higher-education environment and penetration testing engagements for clients across finance and healthcare at a growing cybersecurity firm. I currently hold CompTIA Security+ and CySA+, and am pursuing PenTest+ and OSCP to build toward hands-on red team operations.
 
