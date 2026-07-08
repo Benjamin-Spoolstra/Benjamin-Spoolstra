@@ -59,7 +59,7 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 
 **Programming & Tooling:** Python, Linux CLI/tmux, Claude AI for AI/ML security workflows
 
-> My focus is to understand security tools to a deep level, rather than just running them with default settings. This will help me work towards my goal of running quiet, deliberate tests that emulate real, advanced adversaries. I'm not interested in learning work just to help check a compliance box. I'm learning to help organizations strengthen their true security posture so when a real breach happens they are prepared.
+> My focus is to understand security tools to a deep level, rather than just running them with default settings. This will help me work towards my goal of running quiet, deliberate tests that emulate real, advanced adversaries. I'm not interested in learning just to help check a compliance box. I'm learning to help organizations strengthen their true security posture so when a real breach happens they are prepared.
 
 ---
 
