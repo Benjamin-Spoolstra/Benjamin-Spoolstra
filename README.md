@@ -40,7 +40,7 @@ I deployed a Linux network in Azure via Terraform that was used to detect and an
 **[View write-up →](https://github.com/Benjamin-Spoolstra/Projects/blob/main/SOC%20Lab.md)**
 
 ### Risk Management Lab
-I built an Active Directory network in Azure via Terraform that I used to scan for vulnerabilities with Nessus on. With the vulnerabilities identified I hardened the environment against DISA STIGs. This led to 28% reduction in the attack surface.
+I built an Active Directory network in Azure via Terraform that I used to scan for vulnerabilities with Nessus on. With the vulnerabilities identified I hardened the environment against the DISA STIGs. This led to a 28% reduction in the attack surface.
 **[View write-up →](https://github.com/Benjamin-Spoolstra/Projects/blob/main/Risk%20Management%20Lab.md)**
 
 ---
