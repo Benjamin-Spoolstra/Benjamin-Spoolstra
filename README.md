@@ -23,7 +23,8 @@ My background spans technical support in a higher-education environment and pene
 - **Reduced technical vulnerabilities by 28%** in a self-built Active Directory environment through automated hardening aligned to DISA STIGs.
 - **Detected 100+ failed credential access, defense evasion, and persistence attempts** in a self-built SOC lab (Wazuh + Ubuntu) simulating an internal network compromise.
 - **Contributed to a 95% customer satisfaction score** in a technical support role where I resolved account access and troubleshooting issues with professionalism and clarity. These skills directly inform my client-facing pentest reporting and stakeholder communication duties.
-- **Recognized on the President's List** for academic excellence while completing a Bachelor's of Science in Cybersecurity at Grand Canyon University
+- **Recognized on the President's List** for academic excellence while completing a Bachelor's of Science in Cybersecurity at Grand Canyon University.
+- **Secured a Top 10% Position in the picoCTF 2026 Competition** in a team of 4 specializing in web exploitation and reverse engineering.
 
 ---
 
