@@ -73,7 +73,7 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 - Long-term interest in technical mentorship as skills and experience grow
 
 # Certifications
-*PenTest+ - CompTIA
+* PenTest+ - CompTIA
 * CySA+ - CompTIA
 * Security+ - CompTIA
 * Network+ - CompTIA
