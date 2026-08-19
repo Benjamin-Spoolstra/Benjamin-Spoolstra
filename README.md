@@ -73,6 +73,7 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 - Long-term interest in technical mentorship as skills and experience grow
 
 # Certifications
+*PenTest+ - CompTIA
 * CySA+ - CompTIA
 * Security+ - CompTIA
 * Network+ - CompTIA
@@ -85,6 +86,6 @@ I built an Active Directory network in Azure via Terraform that I used to scan f
 > My expected graduation is April 2027.
 
 # Upcoming Certifications
-* PenTest+ - CompTIA
+* CWES - HackTheBox
 
 Feel free to check out some of my other repositories for documentation on projects, CTF writeups, lab writeups, and some helpful certification resources.
